@@ -178,7 +178,8 @@ CLAUDE.md §5(商品ラインナップ)の運用版。各LVの仕様・コピー
 > ── 願望実現は、もう精神論ではありません。技術です。
 
 **販売LP**:`products/lv2_program/landing_page/lv2_lp.md`(骨子)
-**ウェビナー(LV1→LV2 変換)**:`products/lv2_program/seminar_slides/webinar_lv1_to_lv2.md`(構成案)
+**無料ウェビナー本番台本**:`products/lv2_program/seminar_slides/free_webinar.md`(LV0+LV1デュアルCTA、45分・読み上げ可能)
+**ウェビナー設計案(社内資料)**:`products/lv2_program/seminar_slides/webinar_lv1_to_lv2.md`(スライド構成案・KPI)
 
 ### 4-4. 価格根拠
 
