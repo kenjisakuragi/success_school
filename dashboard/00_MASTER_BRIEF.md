@@ -3,7 +3,7 @@
 > **位置づけ:** 本ファイルは「どのセッションも、これ1つ読めば現在の事業・書籍・ブランド状態を把握できる」よう設計されたサマリー・インデックス。
 >
 > **更新ルール:** 重要決定・訂正のとき、このファイルも同時に更新。
-> **最終更新:** 2026-05-15(JV-MTG用ファネル3点セット 原版+50-60代女性引き寄せ層向けv2 完成)
+> **最終更新:** 2026-05-15(1億円仕組み化15項目チェックリスト追加 — 鉄則第4号)
 
 ---
 
@@ -58,6 +58,26 @@
 1. **20原則**(規格外@shinkaron):小資本・無借金・見込み客の行列・手離れ・リピート他
 2. **集客先行論**:事業より先にリストを作る
 3. **振り切り戦略**:保守層を気にせず、「科学的」で振り切る(中庸は負け)
+4. **1億円仕組み化15項目**(200事業の経験則):集客3+セールス3+納品3+顧客管理3+価格設計3 → `100m_systemization_checklist.md`
+
+---
+
+# 💎 1億円仕組み化15項目チェックリスト(永続コア資産)
+
+> **詳細ファイル:** `100m_systemization_checklist.md`
+> **現状(2026-05-15):** 夢実現大学2/15 + シニアAI0/15 = **全体7%達成**
+> **12ヶ月目標:** 73%達成、年商¥1,800万→¥5,000万→1億円路線図
+
+```
+集客(1-3) / セールス(4-6) / 納品(7-9) / 顧客管理(10-12) / 価格設計(13-15)
+```
+
+**直近3ヶ月で最優先5項目:**
+1. #2 コンテンツ資産化(Book1出版)
+2. #10 ステップメール・CRM自動化
+3. #7 自分依存ゼロ化(講師委譲)
+4. #12 リピート・紹介仕組み
+5. #11 顧客満足度スコア化・解約リスク検知
 
 ---
 
@@ -131,6 +151,7 @@
 - `customer_acquisition_strategy.md`(集客チャネル20+・Tier重点化)
 - `money_flow_blueprint.md`(「お金が入る瞬間」鮮明イメージング)
 - `business_principles.md`(20原則+集客先行論)
+- `100m_systemization_checklist.md`(1億円仕組み化15項目)
 
 ---
 
@@ -188,6 +209,7 @@
 2. **書籍ドラフトを読んでフィードバック**(プロローグv2も含めて)
 3. **取材残り3問に回答**(Q2: 高1転換点詳細 / Q4: 11-15歳読書3冊 / Q5: 2人娘との日常3つ)
 4. 売れるフレームNo.1〜15の採用/保留を番号でフィードバック
+5. **1億円仕組み化15項目の3ヶ月優先5つの着手判断**(`100m_systemization_checklist.md`)
 
 ---
 
@@ -197,6 +219,7 @@
 ```
 founder_profile_final.md
 business_principles.md
+100m_systemization_checklist.md        ★鉄則第4号(1億円仕組み化15項目)
 urgency_framing_strategy.md
 environment_pacemaker_frame.md
 frame_7_coffee_per_day_for_kids.md
@@ -231,6 +254,7 @@ business_expansion_roadmap.md
 backend_products_pricing.md
 customer_acquisition_strategy.md
 money_flow_blueprint.md
+100m_systemization_checklist.md
 ```
 
 ## 🔬 メソッド体系
@@ -268,6 +292,13 @@ today_decisions_2026-05-15.md
 
 # 📝 重要訂正ログ
 
+## 2026-05-15: 鉄則第4号「1億円仕組み化15項目」追加
+- 学長指示:「ビジネス計画の鉄則として記憶しておいて」
+- 出典:200以上の事業に携わった経験則
+- カテゴリ:集客3+セールス3+納品3+顧客管理3+価格設計3
+- ファイル:`100m_systemization_checklist.md`
+- 現状マッピング完了(夢実現大学2/15 + シニアAI0/15)
+
 ## 2026-05-15: JV先顧客リスト確定 → ファネルv2作成
 - JV先顧客リスト:**50-60代女性・引き寄せの法則愛好者**
 - 対応:3点セット(セミナー/アップセル/12回プログラム)を `_v2_spi_women` として並列作成
@@ -299,9 +330,10 @@ today_decisions_2026-05-15.md
 1. 本ファイル (00_MASTER_BRIEF.md)
 2. founder_profile_final.md
 3. business_principles.md
-4. urgency_framing_strategy.md + environment_pacemaker_frame.md
-5. funnel/seminar_slides_v2_spi_women.md(JV-MTG主軸)
-6. todo.md
+4. 100m_systemization_checklist.md ★鉄則第4号(1億円仕組み化15項目)
+5. urgency_framing_strategy.md + environment_pacemaker_frame.md
+6. funnel/seminar_slides_v2_spi_women.md(JV-MTG主軸)
+7. todo.md
 ```
 
 これを読めば同じ認識で作業開始できる。
