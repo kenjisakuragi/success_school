@@ -1,0 +1,25 @@
+# 機密・認証情報(絶対にコミットしない)
+.env
+.env.*
+*credentials*.json
+client_secret*.json
+token.json
+*.token
+*_secret*
+service_account*.json
+
+# APIキー直書き対策(キーは環境変数 GOOGLE_TTS_API_KEY 等で渡す)
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 生成音声/動画などの大容量バイナリ(必要に応じて調整)
+*.wav
+*.mp4

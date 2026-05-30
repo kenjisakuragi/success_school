@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1900" font-family="Yu Gothic, sans-serif">
+  <rect width="1200" height="1900" fill="#fdf5f8"/>
+
+  <!-- Title -->
+  <text x="600" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#c94f7c">桜木式 AIマニフェスティング® カスタマージャーニーマップ</text>
+  <text x="600" y="65" text-anchor="middle" font-size="13" fill="#666">3段Upsell型ファネル(2026-05-23 確定)/ Phase 2 試算(広告月¥400K)</text>
+
+  <!-- ====== STAGE 0: AWARENESS ====== -->
+  <g>
+    <rect x="80" y="100" width="1040" height="100" rx="12" fill="#fff" stroke="#9c89c4" stroke-width="2"/>
+    <text x="100" y="125" font-size="14" font-weight="bold" fill="#9c89c4">段階 0  認知層</text>
+    <text x="100" y="148" font-size="12" fill="#444">Meta広告(月¥400K)  /  SNS @mindlab_jp  /  note  /  YouTube  /  書籍3部作</text>
+    <text x="100" y="170" font-size="11" fill="#888">フック①:「なぜ引き寄せは叶わないのか?」(痛み)  /  フック②:「628億回再生のスクリプティング」(好奇心)</text>
+    <text x="950" y="148" font-size="13" font-weight="bold" fill="#9c89c4">月5,000クリック</text>
+    <text x="950" y="170" font-size="11" fill="#888">CPC ¥80目標</text>
+  </g>
+  <path d="M 600 200 L 600 235" stroke="#c94f7c" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- ====== STAGE 1: VSL ====== -->
+  <g>
+    <rect x="80" y="240" width="1040" height="160" rx="12" fill="#fff" stroke="#c94f7c" stroke-width="2"/>
+    <text x="100" y="265" font-size="14" font-weight="bold" fill="#c94f7c">段階 1  VSL 無料動画 (30分)</text>
+    <text x="100" y="290" font-size="12" fill="#444">構成:Hook(3分)→ 問題定義(5分)→ 桜木の物語(6分)→ 5層モデル(8分)→ AI実演(5分)→ CTA(3分)</text>
+    <text x="100" y="312" font-size="11" fill="#888">▶ 顔出しなし(声+スライド+静止画)</text>
+    <text x="100" y="332" font-size="11" fill="#888">▶ 主要感情移動:共感(Hook)→ 納得(問題)→ 涙(物語)→ 知的興奮(解決策)→ 行動意欲(CTA)</text>
+    <text x="100" y="360" font-size="11" fill="#444" font-style="italic">「あなたのせいではない。メソッドの設計が、不完全だったのです」</text>
+    <text x="950" y="290" font-size="13" font-weight="bold" fill="#c94f7c">完了率 35%</text>
+    <text x="950" y="312" font-size="11" fill="#888">1,750人/月</text>
+    <text x="950" y="335" font-size="13" font-weight="bold" fill="#c94f7c">登録率 70%</text>
+    <text x="950" y="357" font-size="11" fill="#888">1,225人/月</text>
+  </g>
+  <path d="M 600 400 L 600 435" stroke="#c94f7c" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- ====== STAGE 2: FREE STARTER KIT ====== -->
+  <g>
+    <rect x="80" y="440" width="500" height="160" rx="12" fill="#fffbe6" stroke="#f5c156" stroke-width="2"/>
+    <text x="100" y="465" font-size="14" font-weight="bold" fill="#b8860b">段階 2  リードマグネット (無料)</text>
+    <text x="100" y="490" font-size="13" fill="#444">🎁 マニフェスティング・スターターキット</text>
+    <text x="100" y="510" font-size="11" fill="#666">PDF 20ページ・メールで自動配信(3分以内)</text>
+    <text x="100" y="528" font-size="11" fill="#666">過去形・五感ワーク・WOOP入門・桜木の手紙(一部)</text>
+    <text x="100" y="552" font-size="11" fill="#888">価格:¥0  /  全オプトイン者に配布</text>
+    <text x="100" y="578" font-size="11" fill="#5cb85c" font-weight="bold">▶ ファネルから離脱しても価値が残る設計</text>
+  </g>
+
+  <!-- ====== STAGE 3: OTO MASTER COURSE ====== -->
+  <g>
+    <rect x="620" y="440" width="500" height="320" rx="12" fill="#fff8fb" stroke="#c94f7c" stroke-width="3"/>
+    <rect x="620" y="440" width="500" height="36" rx="12" fill="#ffe0e6"/>
+    <text x="640" y="463" font-size="13" font-weight="bold" fill="#d93025">⏰ 30分タイマー(UTAGE Evergreen)</text>
+    <text x="950" y="463" font-size="13" font-weight="bold" fill="#d93025">29:47</text>
+
+    <text x="640" y="498" font-size="14" font-weight="bold" fill="#c94f7c">段階 3  OTOページ (¥19,800・即金)</text>
+    <text x="640" y="522" font-size="13" fill="#444">📦 マニフェスティング・マスター講座</text>
+
+    <text x="640" y="546" font-size="11" font-weight="bold" fill="#666">同梱コンテンツ(6点):</text>
+    <text x="640" y="565" font-size="10" fill="#555">  • オーディオ三部作 180分(桜木声クローン)</text>
+    <text x="640" y="582" font-size="10" fill="#555">  • 90日プロトコルワークブック PDF 60ページ</text>
+    <text x="640" y="599" font-size="10" fill="#555">  • Manifest AI™ プロンプト集 30本</text>
+    <text x="640" y="616" font-size="10" fill="#555">  • 4-7-8呼吸法ガイド音声 10分</text>
+    <text x="640" y="633" font-size="10" fill="#555">  • 科学エビデンス解説PDF 20ページ</text>
+    <text x="640" y="650" font-size="10" fill="#555">  • 「未来からの手紙」上級フォーマット PDF</text>
+
+    <text x="640" y="675" font-size="11" font-weight="bold" fill="#666">ボーナス(期間限定):</text>
+    <text x="640" y="692" font-size="10" fill="#555">  ★ AI伴走Upsell¥10,000割引券(自動適用)</text>
+    <text x="640" y="708" font-size="10" fill="#555">  ★ 公式LINE「Manifest Daily」30日アクセス</text>
+    <text x="640" y="724" font-size="10" fill="#555">  ★ 桜木の高1の手紙原本PDF(全文版)</text>
+
+    <text x="640" y="748" font-size="11" fill="#888">価値合計 ¥74,400相当 → ¥19,800(73%オフ)</text>
+  </g>
+
+  <!-- KPI for OTO -->
+  <g>
+    <rect x="1000" y="540" width="115" height="80" rx="8" fill="#fff" stroke="#c94f7c"/>
+    <text x="1057" y="563" text-anchor="middle" font-size="11" font-weight="bold" fill="#c94f7c">CVR目標</text>
+    <text x="1057" y="585" text-anchor="middle" font-size="20" font-weight="bold" fill="#c94f7c">20%</text>
+    <text x="1057" y="605" text-anchor="middle" font-size="10" fill="#888">245人/月</text>
+  </g>
+
+  <!-- arrow from opt-in to OTO -->
+  <path d="M 330 600 L 330 640 L 600 640 L 600 660 L 620 660" stroke="#c94f7c" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- ====== STAGE 4: UPSELL AI 伴走 ====== -->
+  <g>
+    <rect x="80" y="800" width="1040" height="300" rx="12" fill="#fff0f5" stroke="#c94f7c" stroke-width="3"/>
+    <rect x="80" y="800" width="1040" height="36" rx="12" fill="#ffd7e0"/>
+    <text x="100" y="823" font-size="13" font-weight="bold" fill="#d93025">⏰ 30分タイマー(UTAGE Evergreen・OTO決済直後)</text>
+
+    <text x="100" y="858" font-size="14" font-weight="bold" fill="#c94f7c">段階 4  Upsellページ (¥98,000 → 割引¥88,000・マスター講座決済直後)</text>
+    <text x="100" y="882" font-size="13" fill="#444">🌹 Manifest AI™ 3ヶ月伴走プログラム</text>
+
+    <text x="100" y="910" font-size="11" font-weight="bold" fill="#666">マスター講座は教材(自学自習) ⇄ AI伴走は伴走サービス(本気で変わる)</text>
+
+    <text x="100" y="935" font-size="11" font-weight="bold" fill="#666">含まれる全て(90日間):</text>
+    <text x="100" y="952" font-size="11" fill="#555">  • LINE 24時間 Manifest AI™ 伴走(Claude API基盤・桜木式カスタム)</text>
+    <text x="100" y="970" font-size="11" fill="#555">  • 毎朝7時 桜木の声プッシュ通知(ElevenLabs・パーソナライズ)</text>
+    <text x="100" y="988" font-size="11" fill="#555">  • 月1回 グループZoom Q&A 60分(固定曜日・録画あり)</text>
+    <text x="100" y="1006" font-size="11" fill="#555">  • 90日プロトコル ワークブック(印刷送付)</text>
+    <text x="100" y="1024" font-size="11" fill="#555">  • 桜木「未来からの手紙」個別添削 計4回(開始・30日・60日・卒業時)</text>
+    <text x="100" y="1042" font-size="11" fill="#555">  • 卒業後特典:認定講師制度への優先案内</text>
+
+    <text x="100" y="1068" font-size="11" font-weight="bold" fill="#666">価格(マスター講座割引券適用):</text>
+    <text x="100" y="1086" font-size="11" fill="#555">  ¥88,000(通常¥98,000)  /  分割24回 ¥3,667/月  /  ★分割30回 ¥2,933/月(1日¥98)</text>
+  </g>
+
+  <!-- KPI for Upsell -->
+  <g>
+    <rect x="960" y="900" width="150" height="120" rx="8" fill="#fff" stroke="#c94f7c"/>
+    <text x="1035" y="925" text-anchor="middle" font-size="11" font-weight="bold" fill="#c94f7c">Upsell転換率</text>
+    <text x="1035" y="952" text-anchor="middle" font-size="11" fill="#5cb85c">マスター講座購入者から</text>
+    <text x="1035" y="985" text-anchor="middle" font-size="28" font-weight="bold" fill="#5cb85c">15%</text>
+    <text x="1035" y="1005" text-anchor="middle" font-size="10" fill="#888">37人/月</text>
+  </g>
+
+  <!-- arrow from OTO purchase to Upsell -->
+  <path d="M 870 760 L 870 800" stroke="#5cb85c" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <text x="890" y="785" font-size="11" fill="#5cb85c" font-weight="bold">決済成功直後</text>
+
+  <!-- ====== STAGE 5: EMAIL SEQUENCE (auxiliary) ====== -->
+  <g>
+    <rect x="80" y="1120" width="1040" height="220" rx="12" fill="#fafafa" stroke="#999" stroke-width="2" stroke-dasharray="3,3"/>
+    <text x="100" y="1145" font-size="14" font-weight="bold" fill="#666">段階 5  メールシーケンス 10日間(補助フロー・3ルート)</text>
+
+    <text x="100" y="1175" font-size="11" font-weight="bold" fill="#5cb85c">A. マスター講座+Upsell購入(両方買い)</text>
+    <text x="100" y="1192" font-size="10" fill="#444">Day 0 両方お届け / Day 1 Track 1感想 /</text>
+    <text x="100" y="1209" font-size="10" fill="#444">Day 3 手紙書けた? / Day 7 初Q&A案内</text>
+
+    <text x="450" y="1175" font-size="11" font-weight="bold" fill="#f5a623">B. マスター講座のみ(Upsellスキップ)</text>
+    <text x="450" y="1192" font-size="10" fill="#444">Day 0 マスター講座お届け /</text>
+    <text x="450" y="1209" font-size="10" fill="#444">Day 5 分岐点メール /</text>
+    <text x="450" y="1226" font-size="10" fill="#444">Day 7 ★AI伴走再オファー(通常¥98,000)</text>
+    <text x="450" y="1243" font-size="10" fill="#444">Day 10 最終案内+個別相談</text>
+
+    <text x="800" y="1175" font-size="11" font-weight="bold" fill="#888">C. 非購入(スターターキットのみ)</text>
+    <text x="800" y="1192" font-size="10" fill="#444">Day 0 PDF配信 / Day 1 桜木の物語 /</text>
+    <text x="800" y="1209" font-size="10" fill="#444">Day 3 628億回再生の科学 /</text>
+    <text x="800" y="1226" font-size="10" fill="#444">Day 5 継続率10%の現実 /</text>
+    <text x="800" y="1243" font-size="10" fill="#444">Day 7 ★AI伴走直接オファー</text>
+
+    <text x="100" y="1280" font-size="11" fill="#666" font-style="italic">▶ 補助フロー:メインの転換は段階3→4の即時Upsellで完結。メールはフォローアップ機能。</text>
+    <text x="100" y="1300" font-size="11" fill="#666" font-style="italic">▶ Day 5メール経由 Upsell再オファー転換率5% / 非OTOからの直接バックエンド転換率1%想定</text>
+  </g>
+
+  <!-- ====== REVENUE SUMMARY ====== -->
+  <g>
+    <rect x="80" y="1360" width="1040" height="220" rx="12" fill="#fff" stroke="#666" stroke-width="2"/>
+    <text x="100" y="1385" font-size="14" font-weight="bold" fill="#333">月次収益試算(Phase 2:広告¥400K投下時)</text>
+
+    <text x="100" y="1418" font-size="12" fill="#444">広告 ¥400,000 → クリック 5,000 → VSL完了 1,750 → 登録 1,225</text>
+
+    <text x="100" y="1450" font-size="12" fill="#555">┌─ マスター講座 ¥19,800 × 245人(登録の20%) ........ ¥4,851,000</text>
+    <text x="100" y="1468" font-size="12" fill="#555">├─ Upsell ¥88,000 × 37人(マスター講座の15%) ........ ¥3,256,000</text>
+    <text x="100" y="1486" font-size="12" fill="#555">├─ Day 7再オファー Upsell ¥98,000 × 10人 ........... ¥980,000</text>
+    <text x="100" y="1504" font-size="12" fill="#555">└─ 非購入→直接AI伴走 ¥98,000 × 10人 ............... ¥980,000</text>
+    <text x="100" y="1534" font-size="14" font-weight="bold" fill="#c94f7c">月次総売上 ¥10,067,000(年換算 約¥1.2億)</text>
+    <text x="100" y="1556" font-size="12" fill="#444">月次経費 約¥800,000  →  純利益 約¥920万/月</text>
+  </g>
+
+  <!-- ====== JV SIDE FUNNEL ====== -->
+  <g>
+    <rect x="80" y="1620" width="1040" height="200" rx="12" fill="#f8f5e6" stroke="#b8860b" stroke-width="2" stroke-dasharray="5,5"/>
+    <text x="100" y="1645" font-size="14" font-weight="bold" fill="#b8860b">★ サブファネル ― JV専用(桜木メインから完全分離)</text>
+
+    <text x="100" y="1675" font-size="12" fill="#444">JV先のオーディエンス(リスト保有はJV先)</text>
+    <text x="100" y="1695" font-size="11" fill="#888">↓</text>
+
+    <text x="100" y="1718" font-size="13" fill="#444">🎤 ¥1,000 AIスクリプティング・ライブ体験会(月1回・90分Zoom)</text>
+    <text x="100" y="1738" font-size="11" fill="#666">既存スライド52枚資産活用・「未来からの手紙」ライブワーク</text>
+    <text x="100" y="1755" font-size="11" fill="#888">↓</text>
+
+    <text x="100" y="1778" font-size="13" fill="#444">📦 マスター講座 ¥19,800 → 🌹 AI伴走 ¥98,000(メインファネルと共通)</text>
+    <text x="100" y="1803" font-size="11" fill="#888">レベニューシェア 50:50・桜木は黒子に徹する</text>
+  </g>
+
+  <!-- Arrow definitions -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#c94f7c"/>
+    </marker>
+  </defs>
+
+</svg>

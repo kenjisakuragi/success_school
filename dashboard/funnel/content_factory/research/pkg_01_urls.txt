@@ -1,0 +1,3 @@
+# YouTube URL を1行ずつ記入(#で始まる行はコメント)
+# 例:
+# https://www.youtube.com/watch?v=VIDEO_ID
